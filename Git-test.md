@@ -14,4 +14,4 @@ git status - команда вызывающая блок инфоормации
  ## Lesson 2
 
  git branch - команда выводит ветки
- git branch - ветка
+ git branch name - создание ветки
